@@ -100,23 +100,69 @@
  
 `João:` 
 
- *João que Estava na Frente Gravando, vai para o Ouvido de Luiz Contar o que Aconteceu!!!
+ *João que Estava na Frente Gravando, vai para o Ouvido de Luiz Contar o que Aconteceu!!! (Valido lembrar que não é para ser isso)
  
  -----------------------------------------------
  
 `Leticia:` 
 
- `"URGENTE, O ARQUIDUQUE FRANZ FERDINAND ACABA DE SER ASSASINADO"`
+ `"URGENTE, O ARQUIDUQUE FRANCISCO FERDINANDO ACABA DE SER ASSASINADO (por herdeiro do trono Austro-Húngaro, por um nacionalista sérvio bósnio, durante uma visita sua a Sarajevo)"`
  
- *O Nome "Franz Ferdinand" se lê:
-
-![https://cdn.discordapp.com/attachments/849431723540480010/985372302600466463/00_-_Blake_Speers_-_Fall_Battle_One.ogg](00_-_Blake_Speers_-_Fall_Battle_One.ogg)
+ *O Nome Original é "Franz Ferdinand" se lê: (FRENZ FER - DI NENDE) porém, em todos os lugares que tinham em portugues, o nome dele ficava como francisco ferdinando, então acredito que não tenha problema em ser chamado deste jeito, até o por que ele era da austro-hungria, e frenz é inglês, seu nome em austro-hungaro é "ferenc ferdinánd" porém não encontrei pronuncia, (Valido lembrar que não é para ser isso)
  
-`Luiz:` 
-
- `""`
+ https://www.youtube.com/watch?v=pC5z5OSQ1Qg
  
 ----------------------------------------------- 
+
+`Luiz:` 
+
+ `"E Isso acaba de causar uma GUERRA MUNDIAL!!!"`
+
+-----------------------------------------------
+
+`Leticia:` 
+
+ `"E Estamos com um Reporter em campo na Região."`
+ 
+-----------------------------------------------
+
+`Luiz:` 
+
+ `"Você Consegue nos Ouvir Guilherme???"`
+ 
+-----------------------------------------------
+
+*Piada com a demora que tem de um ponto de tv pra reporter (Valido lembrar que não é para ser isso)
+
+*Espera de 5 Segundos!!!
+
+-----------------------------------------------
+
+`Wozniak:` 
+
+ `"Opa, estou Ouvindo sim!!!"`
+ 
+`Wozniak:` 
+
+ `"Estou aqui na região de Sarajevo na Bósnia"`
+  
+`Wozniak:` 
+
+ `"A Sérvia está Atacando o Império Austro-Hungaro"`
+ 
+`Wozniak:` 
+
+ `"E eu tenho que tomar muito cuidado pois a qualquer momento um tanque de guerra pode me ati...... RAARRRRR"`
+
+*Alguém joga uma bola de papel nele fingindo ser uma de tanque de guerra uishfdihfi (é pra ser fraco e o intuito nn é acertar)
+
+-----------------------------------------------
+ 
+`João:` 
+
+ `"Cooooooorta!!!"`
+ 
+-----------------------------------------------
 
 ## Papeis
 
@@ -142,10 +188,3 @@
 
 #### (A Data em Si Mudou por Conta de Alguns Imprevistos!!!)
 <img src="https://media.discordapp.net/attachments/849431723540480010/987795846877835394/unknown.png?width=968&height=428">
-
-
-<audio controls="controls">
-  <source type="audio/mp3" src="filename.mp3"></source>
-  <source type="audio/ogg" src="filename.ogg"></source>
-  <p>Your browser does not support the audio element.</p>
-</audio>
