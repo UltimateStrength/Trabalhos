@@ -74,7 +74,7 @@
 
 `Leticia:` 
 
- `"e o Pan-eslavismo, (que o principal objetivo dos membros do movimento era unir todos os povos eslavos da Europa sob uma única bandeira, um único Estado e uma única língua.)"`
+ `"e o Pan-eslavismo, (que o principal objetivo dos membros do movimento é unir todos os povos eslavos da Europa sob uma única bandeira, um único Estado e uma única língua.)"`
 
 -----------------------------------------------
 
@@ -86,7 +86,7 @@
 
 `Marcos:` 
 
- `"Bom Dia meus Caros, Hoje dia 28 de Junho de 1914, o clima está Tenso, o Clima está Venenoso, não se Esqueça de sua Mascará de Gás e seu Lança-Chamas no Bolso!!!"`
+ `"Bom Dia meus Caros, Hoje dia 28 de Junho de 1914, o clima está Tenso e Venenoso, não se Esqueça de levar sua Mascará de Gás para suas viagens e seu Lança-Chamas no Bolso!!!"`
  
 `Marcos:` 
 
@@ -101,6 +101,8 @@
 `João:` 
 
  *João que Estava na Frente Gravando, vai para o Ouvido de Luiz Contar o que Aconteceu!!! (Valido lembrar que não é para ser isso)
+ 
+ *Luiz passa o que o joão disse para leticia
  
  -----------------------------------------------
  
@@ -122,7 +124,7 @@
 
 `Leticia:` 
 
- `"E Estamos com um Reporter em campo na Região."`
+ `"Estamos com um Reporter em campo na Região."`
  
 -----------------------------------------------
 
