@@ -109,11 +109,8 @@
  `"URGENTE, O ARQUIDUQUE FRANZ FERDINAND ACABA DE SER ASSASINADO"`
  
  *O Nome "Franz Ferdinand" se lê:
- 
- <audio controls="controls">
-  <source type="audio/ogg" src="00_-_Blake_Speers_-_Fall_Battle_One.ogg"></source>
-  <p>Your browser does not support the audio element.</p>
-</audio>
+
+![https://cdn.discordapp.com/attachments/849431723540480010/985372302600466463/00_-_Blake_Speers_-_Fall_Battle_One.ogg](00_-_Blake_Speers_-_Fall_Battle_One.ogg)
  
 `Luiz:` 
 
@@ -145,3 +142,10 @@
 
 #### (A Data em Si Mudou por Conta de Alguns Imprevistos!!!)
 <img src="https://media.discordapp.net/attachments/849431723540480010/987795846877835394/unknown.png?width=968&height=428">
+
+
+<audio controls="controls">
+  <source type="audio/mp3" src="filename.mp3"></source>
+  <source type="audio/ogg" src="filename.ogg"></source>
+  <p>Your browser does not support the audio element.</p>
+</audio>
